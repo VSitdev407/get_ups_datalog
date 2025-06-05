@@ -4,6 +4,7 @@ import requests
 import dropbox
 import os
 from logger import logger  # 使用你統一的 logger 來記錄資訊
+import config  # 從 config 讀取 token 設定
 
 def refresh_access_token(refresh_token, client_id, client_secret):
     """
