@@ -125,7 +125,7 @@ def scheduled_ups_job():
         else:
             print(f"No matching data found for {ups_name} today.")
 
-schedule.every().day.at("16:30").do(scheduled_ups_job)
+schedule.every().day.at("16:25").do(scheduled_ups_job)
 
 print("UPS Data Scheduler is running...")
 
