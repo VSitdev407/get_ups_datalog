@@ -12,7 +12,7 @@ UPS_USERNAME = "admin"
 UPS_PASSWORD = "misadmin"
 
 # Set the target time for data extraction
-TARGET_HOUR = 8
+TARGET_HOUR = 18
 TARGET_MINUTE= 30
 TIME_RANGE_MINUTES = 45
 

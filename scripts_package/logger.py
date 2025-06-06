@@ -3,7 +3,9 @@ import os
 from datetime import datetime
 
 # 產生 logs 資料夾（若不存在）
-log_folder = os.path.join(os.getcwd(), "logs")
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+
+log_folder = os.path.join(BASE_DIR,"..", "logs")
 os.makedirs(log_folder, exist_ok=True)
 
 # 使用日期產生檔名
