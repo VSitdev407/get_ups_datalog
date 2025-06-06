@@ -1,0 +1,2 @@
+DateTime,Vin,Vout,Freq,Load,Capacity,BatteryVolt,CellVolt,Temp,ups_name
+06/06/2025 14:35:36,223,230,60.0,034,,272.8,,18,UPS_8F
