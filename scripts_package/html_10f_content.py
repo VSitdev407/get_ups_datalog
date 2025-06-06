@@ -36,7 +36,7 @@ def get_10f_data(url, username, password, target_hour, target_mins, tolerance_mi
     log_data = []
     for row in target_table.find_all("tr"):
         cols = [td.get_text(strip=True) for td in row.find_all("td")]
-        if len(cols) < 9:
+        if len(cols) < 9 or "Date" in cols[0] or "Date/Time" in cols[0]:
             continue
         try:
             row_dt = datetime.strptime(cols[0], "%Y/%m/%d %H:%M:%S")

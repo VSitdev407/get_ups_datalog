@@ -231,3 +231,175 @@
 2025-06-06 17:37:56,789 - INFO - File uploaded to Dropbox: /ups_datalog/UPS_10F_20250606_datalog.csv
 2025-06-06 17:37:56,790 - INFO - UPS_10F: Uploaded to Dropbox ¡÷ /ups_datalog/UPS_10F_20250606_datalog.csv
 2025-06-06 17:37:56,790 - INFO - All UPS data processing completed.
+2025-06-06 18:32:54,327 - INFO - UPS Data Scheduler started (manual run)
+2025-06-06 18:32:54,328 - INFO - Processing started for UPS_9F
+2025-06-06 18:32:54,493 - WARNING - UPS_9F: No matching data found in the specified time range.
+2025-06-06 18:32:54,494 - INFO - Processing started for UPS_8F
+2025-06-06 18:32:54,658 - WARNING - UPS_8F: No matching data found in the specified time range.
+2025-06-06 18:32:54,658 - INFO - Processing started for UPS_7F
+2025-06-06 18:32:54,818 - WARNING - UPS_7F: No matching data found in the specified time range.
+2025-06-06 18:32:54,818 - INFO - Processing started for UPS_3F
+2025-06-06 18:32:54,975 - WARNING - UPS_3F: No matching data found in the specified time range.
+2025-06-06 18:32:54,976 - INFO - Processing started for UPS_10F
+2025-06-06 18:32:55,736 - WARNING - Row skipped due to time parsing error: time data 'Date/Time' does not match format '%Y/%m/%d %H:%M:%S'
+2025-06-06 18:32:55,737 - INFO - Found 1 valid records from 10F UPS
+2025-06-06 18:32:55,745 - INFO - CSV saved to C:\Users\itdev\OneDrive - ViewSonic Corporation\VSCode\get_ups_datalog\get_ups_datalog\temp_csv\UPS_10F_20250606_datalog.csv
+2025-06-06 18:32:55,748 - INFO - UPS_10F: CSV saved successfully ¡÷ C:\Users\itdev\OneDrive - ViewSonic Corporation\VSCode\get_ups_datalog\get_ups_datalog\temp_csv\UPS_10F_20250606_datalog.csv
+2025-06-06 18:32:56,091 - INFO - Dropbox token refreshed successfully.
+2025-06-06 18:32:56,092 - INFO - Request to files/upload
+2025-06-06 18:32:57,147 - INFO - File uploaded to Dropbox: /ups_datalog/UPS_10F_20250606_datalog.csv
+2025-06-06 18:32:57,147 - INFO - UPS_10F: Uploaded to Dropbox ¡÷ /ups_datalog/UPS_10F_20250606_datalog.csv
+2025-06-06 18:32:57,147 - INFO - All UPS data processing completed.
+2025-06-06 18:34:55,499 - INFO - UPS Data Scheduler started (manual run)
+2025-06-06 18:34:55,500 - INFO - Processing started for UPS_9F
+2025-06-06 18:34:55,658 - WARNING - UPS_9F: No matching data found in the specified time range.
+2025-06-06 18:34:55,658 - INFO - Processing started for UPS_8F
+2025-06-06 18:34:55,813 - WARNING - UPS_8F: No matching data found in the specified time range.
+2025-06-06 18:34:55,813 - INFO - Processing started for UPS_7F
+2025-06-06 18:34:56,074 - WARNING - UPS_7F: No matching data found in the specified time range.
+2025-06-06 18:34:56,074 - INFO - Processing started for UPS_3F
+2025-06-06 18:34:56,230 - WARNING - UPS_3F: No matching data found in the specified time range.
+2025-06-06 18:34:56,230 - INFO - Processing started for UPS_10F
+2025-06-06 18:34:56,865 - WARNING - Row skipped due to time parsing error: time data 'Date/Time' does not match format '%Y/%m/%d %H:%M:%S'
+2025-06-06 18:34:56,866 - INFO - Found 1 valid records from 10F UPS
+2025-06-06 18:34:56,872 - INFO - CSV saved to C:\Users\itdev\OneDrive - ViewSonic Corporation\VSCode\get_ups_datalog\get_ups_datalog\temp_csv\UPS_10F_20250606_datalog.csv
+2025-06-06 18:34:56,875 - INFO - UPS_10F: CSV saved successfully ¡÷ C:\Users\itdev\OneDrive - ViewSonic Corporation\VSCode\get_ups_datalog\get_ups_datalog\temp_csv\UPS_10F_20250606_datalog.csv
+2025-06-06 18:34:57,220 - INFO - Dropbox token refreshed successfully.
+2025-06-06 18:34:57,222 - INFO - Request to files/upload
+2025-06-06 18:34:58,226 - INFO - File uploaded to Dropbox: /ups_datalog/UPS_10F_20250606_datalog.csv
+2025-06-06 18:34:58,227 - INFO - UPS_10F: Uploaded to Dropbox ¡÷ /ups_datalog/UPS_10F_20250606_datalog.csv
+2025-06-06 18:34:58,227 - INFO - All UPS data processing completed.
+2025-06-06 18:35:12,335 - INFO - UPS Data Scheduler started (manual run)
+2025-06-06 18:35:12,337 - INFO - Processing started for UPS_9F
+2025-06-06 18:35:12,496 - WARNING - UPS_9F: No matching data found in the specified time range.
+2025-06-06 18:35:12,497 - INFO - Processing started for UPS_8F
+2025-06-06 18:35:12,651 - WARNING - UPS_8F: No matching data found in the specified time range.
+2025-06-06 18:35:12,651 - INFO - Processing started for UPS_7F
+2025-06-06 18:35:12,803 - WARNING - UPS_7F: No matching data found in the specified time range.
+2025-06-06 18:35:12,803 - INFO - Processing started for UPS_3F
+2025-06-06 18:35:12,960 - WARNING - UPS_3F: No matching data found in the specified time range.
+2025-06-06 18:35:12,960 - INFO - Processing started for UPS_10F
+2025-06-06 18:35:13,837 - WARNING - Row skipped due to time parsing error: time data 'Date/Time' does not match format '%Y/%m/%d %H:%M:%S'
+2025-06-06 18:35:13,838 - INFO - Found 1 valid records from 10F UPS
+2025-06-06 18:35:13,846 - INFO - CSV saved to C:\Users\itdev\OneDrive - ViewSonic Corporation\VSCode\get_ups_datalog\get_ups_datalog\temp_csv\UPS_10F_20250606_datalog.csv
+2025-06-06 18:35:13,864 - INFO - UPS_10F: CSV saved successfully ¡÷ C:\Users\itdev\OneDrive - ViewSonic Corporation\VSCode\get_ups_datalog\get_ups_datalog\temp_csv\UPS_10F_20250606_datalog.csv
+2025-06-06 18:35:14,274 - INFO - Dropbox token refreshed successfully.
+2025-06-06 18:35:14,275 - INFO - Request to files/upload
+2025-06-06 18:35:15,293 - INFO - File uploaded to Dropbox: /ups_datalog/UPS_10F_20250606_datalog.csv
+2025-06-06 18:35:15,293 - INFO - UPS_10F: Uploaded to Dropbox ¡÷ /ups_datalog/UPS_10F_20250606_datalog.csv
+2025-06-06 18:35:15,293 - INFO - All UPS data processing completed.
+2025-06-06 18:35:17,000 - INFO - UPS Data Scheduler started (manual run)
+2025-06-06 18:35:17,001 - INFO - Processing started for UPS_9F
+2025-06-06 18:35:17,157 - WARNING - UPS_9F: No matching data found in the specified time range.
+2025-06-06 18:35:17,158 - INFO - Processing started for UPS_8F
+2025-06-06 18:35:17,311 - WARNING - UPS_8F: No matching data found in the specified time range.
+2025-06-06 18:35:17,311 - INFO - Processing started for UPS_7F
+2025-06-06 18:35:17,450 - INFO - UPS Data Scheduler started (manual run)
+2025-06-06 18:35:17,451 - INFO - Processing started for UPS_9F
+2025-06-06 18:35:17,463 - WARNING - UPS_7F: No matching data found in the specified time range.
+2025-06-06 18:35:17,464 - INFO - Processing started for UPS_3F
+2025-06-06 18:35:17,607 - WARNING - UPS_9F: No matching data found in the specified time range.
+2025-06-06 18:35:17,608 - INFO - Processing started for UPS_8F
+2025-06-06 18:35:17,619 - WARNING - UPS_3F: No matching data found in the specified time range.
+2025-06-06 18:35:17,619 - INFO - Processing started for UPS_10F
+2025-06-06 18:35:17,820 - INFO - UPS Data Scheduler started (manual run)
+2025-06-06 18:35:17,822 - INFO - Processing started for UPS_9F
+2025-06-06 18:35:17,860 - WARNING - UPS_8F: No matching data found in the specified time range.
+2025-06-06 18:35:17,861 - INFO - Processing started for UPS_7F
+2025-06-06 18:35:17,953 - INFO - UPS Data Scheduler started (manual run)
+2025-06-06 18:35:17,954 - INFO - Processing started for UPS_9F
+2025-06-06 18:35:18,037 - WARNING - UPS_9F: No matching data found in the specified time range.
+2025-06-06 18:35:18,038 - INFO - Processing started for UPS_8F
+2025-06-06 18:35:18,126 - WARNING - UPS_9F: No matching data found in the specified time range.
+2025-06-06 18:35:18,127 - INFO - Processing started for UPS_8F
+2025-06-06 18:35:18,144 - WARNING - UPS_7F: No matching data found in the specified time range.
+2025-06-06 18:35:18,144 - INFO - Processing started for UPS_3F
+2025-06-06 18:35:18,241 - WARNING - UPS_8F: No matching data found in the specified time range.
+2025-06-06 18:35:18,241 - INFO - Processing started for UPS_7F
+2025-06-06 18:35:18,254 - WARNING - Row skipped due to time parsing error: time data 'Date/Time' does not match format '%Y/%m/%d %H:%M:%S'
+2025-06-06 18:35:18,255 - INFO - Found 1 valid records from 10F UPS
+2025-06-06 18:35:18,264 - INFO - CSV saved to C:\Users\itdev\OneDrive - ViewSonic Corporation\VSCode\get_ups_datalog\get_ups_datalog\temp_csv\UPS_10F_20250606_datalog.csv
+2025-06-06 18:35:18,267 - INFO - UPS_10F: CSV saved successfully ¡÷ C:\Users\itdev\OneDrive - ViewSonic Corporation\VSCode\get_ups_datalog\get_ups_datalog\temp_csv\UPS_10F_20250606_datalog.csv
+2025-06-06 18:35:18,299 - WARNING - UPS_3F: No matching data found in the specified time range.
+2025-06-06 18:35:18,300 - INFO - Processing started for UPS_10F
+2025-06-06 18:35:18,340 - WARNING - UPS_8F: No matching data found in the specified time range.
+2025-06-06 18:35:18,340 - INFO - Processing started for UPS_7F
+2025-06-06 18:35:18,512 - WARNING - UPS_7F: No matching data found in the specified time range.
+2025-06-06 18:35:18,512 - INFO - Processing started for UPS_3F
+2025-06-06 18:35:18,634 - INFO - Dropbox token refreshed successfully.
+2025-06-06 18:35:18,635 - INFO - Request to files/upload
+2025-06-06 18:35:18,643 - WARNING - UPS_7F: No matching data found in the specified time range.
+2025-06-06 18:35:18,643 - INFO - Processing started for UPS_3F
+2025-06-06 18:35:18,708 - WARNING - UPS_3F: No matching data found in the specified time range.
+2025-06-06 18:35:18,708 - INFO - Processing started for UPS_10F
+2025-06-06 18:35:18,810 - WARNING - UPS_3F: No matching data found in the specified time range.
+2025-06-06 18:35:18,810 - INFO - Processing started for UPS_10F
+2025-06-06 18:35:18,888 - WARNING - Row skipped due to time parsing error: time data 'Date/Time' does not match format '%Y/%m/%d %H:%M:%S'
+2025-06-06 18:35:18,889 - INFO - Found 1 valid records from 10F UPS
+2025-06-06 18:35:18,894 - INFO - CSV saved to C:\Users\itdev\OneDrive - ViewSonic Corporation\VSCode\get_ups_datalog\get_ups_datalog\temp_csv\UPS_10F_20250606_datalog.csv
+2025-06-06 18:35:18,896 - INFO - UPS_10F: CSV saved successfully ¡÷ C:\Users\itdev\OneDrive - ViewSonic Corporation\VSCode\get_ups_datalog\get_ups_datalog\temp_csv\UPS_10F_20250606_datalog.csv
+2025-06-06 18:35:19,142 - WARNING - Row skipped due to time parsing error: time data 'Date/Time' does not match format '%Y/%m/%d %H:%M:%S'
+2025-06-06 18:35:19,143 - INFO - Found 1 valid records from 10F UPS
+2025-06-06 18:35:19,148 - INFO - CSV saved to C:\Users\itdev\OneDrive - ViewSonic Corporation\VSCode\get_ups_datalog\get_ups_datalog\temp_csv\UPS_10F_20250606_datalog.csv
+2025-06-06 18:35:19,151 - INFO - UPS_10F: CSV saved successfully ¡÷ C:\Users\itdev\OneDrive - ViewSonic Corporation\VSCode\get_ups_datalog\get_ups_datalog\temp_csv\UPS_10F_20250606_datalog.csv
+2025-06-06 18:35:19,274 - INFO - Dropbox token refreshed successfully.
+2025-06-06 18:35:19,275 - INFO - Request to files/upload
+2025-06-06 18:35:19,388 - WARNING - Row skipped due to time parsing error: time data 'Date/Time' does not match format '%Y/%m/%d %H:%M:%S'
+2025-06-06 18:35:19,389 - INFO - Found 1 valid records from 10F UPS
+2025-06-06 18:35:19,395 - INFO - CSV saved to C:\Users\itdev\OneDrive - ViewSonic Corporation\VSCode\get_ups_datalog\get_ups_datalog\temp_csv\UPS_10F_20250606_datalog.csv
+2025-06-06 18:35:19,398 - INFO - UPS_10F: CSV saved successfully ¡÷ C:\Users\itdev\OneDrive - ViewSonic Corporation\VSCode\get_ups_datalog\get_ups_datalog\temp_csv\UPS_10F_20250606_datalog.csv
+2025-06-06 18:35:19,525 - INFO - Dropbox token refreshed successfully.
+2025-06-06 18:35:19,526 - INFO - Request to files/upload
+2025-06-06 18:35:19,641 - INFO - File uploaded to Dropbox: /ups_datalog/UPS_10F_20250606_datalog.csv
+2025-06-06 18:35:19,642 - INFO - UPS_10F: Uploaded to Dropbox ¡÷ /ups_datalog/UPS_10F_20250606_datalog.csv
+2025-06-06 18:35:19,642 - INFO - All UPS data processing completed.
+2025-06-06 18:35:19,762 - INFO - Dropbox token refreshed successfully.
+2025-06-06 18:35:19,763 - INFO - Request to files/upload
+2025-06-06 18:35:20,460 - INFO - File uploaded to Dropbox: /ups_datalog/UPS_10F_20250606_datalog.csv
+2025-06-06 18:35:20,460 - INFO - UPS_10F: Uploaded to Dropbox ¡÷ /ups_datalog/UPS_10F_20250606_datalog.csv
+2025-06-06 18:35:20,460 - INFO - All UPS data processing completed.
+2025-06-06 18:35:20,696 - INFO - File uploaded to Dropbox: /ups_datalog/UPS_10F_20250606_datalog.csv
+2025-06-06 18:35:20,697 - INFO - UPS_10F: Uploaded to Dropbox ¡÷ /ups_datalog/UPS_10F_20250606_datalog.csv
+2025-06-06 18:35:20,697 - INFO - All UPS data processing completed.
+2025-06-06 18:35:20,802 - INFO - File uploaded to Dropbox: /ups_datalog/UPS_10F_20250606_datalog.csv
+2025-06-06 18:35:20,802 - INFO - UPS_10F: Uploaded to Dropbox ¡÷ /ups_datalog/UPS_10F_20250606_datalog.csv
+2025-06-06 18:35:20,803 - INFO - All UPS data processing completed.
+2025-06-06 18:40:56,258 - INFO - UPS Data Scheduler started (manual run)
+2025-06-06 18:40:56,258 - INFO - Processing started for UPS_9F
+2025-06-06 18:40:56,423 - INFO - CSV saved to C:\Users\itdev\OneDrive - ViewSonic Corporation\VSCode\get_ups_datalog\get_ups_datalog\temp_csv\UPS_9F_20250606_datalog.csv
+2025-06-06 18:40:56,425 - INFO - UPS_9F: CSV saved successfully ¡÷ C:\Users\itdev\OneDrive - ViewSonic Corporation\VSCode\get_ups_datalog\get_ups_datalog\temp_csv\UPS_9F_20250606_datalog.csv
+2025-06-06 18:40:56,775 - INFO - Dropbox token refreshed successfully.
+2025-06-06 18:40:56,776 - INFO - Request to files/upload
+2025-06-06 18:40:58,191 - INFO - File uploaded to Dropbox: /ups_datalog/UPS_9F_20250606_datalog.csv
+2025-06-06 18:40:58,191 - INFO - UPS_9F: Uploaded to Dropbox ¡÷ /ups_datalog/UPS_9F_20250606_datalog.csv
+2025-06-06 18:40:58,191 - INFO - Processing started for UPS_8F
+2025-06-06 18:40:58,354 - INFO - CSV saved to C:\Users\itdev\OneDrive - ViewSonic Corporation\VSCode\get_ups_datalog\get_ups_datalog\temp_csv\UPS_8F_20250606_datalog.csv
+2025-06-06 18:40:58,356 - INFO - UPS_8F: CSV saved successfully ¡÷ C:\Users\itdev\OneDrive - ViewSonic Corporation\VSCode\get_ups_datalog\get_ups_datalog\temp_csv\UPS_8F_20250606_datalog.csv
+2025-06-06 18:40:58,686 - INFO - Dropbox token refreshed successfully.
+2025-06-06 18:40:58,687 - INFO - Request to files/upload
+2025-06-06 18:41:00,102 - INFO - File uploaded to Dropbox: /ups_datalog/UPS_8F_20250606_datalog.csv
+2025-06-06 18:41:00,103 - INFO - UPS_8F: Uploaded to Dropbox ¡÷ /ups_datalog/UPS_8F_20250606_datalog.csv
+2025-06-06 18:41:00,103 - INFO - Processing started for UPS_7F
+2025-06-06 18:41:00,267 - INFO - CSV saved to C:\Users\itdev\OneDrive - ViewSonic Corporation\VSCode\get_ups_datalog\get_ups_datalog\temp_csv\UPS_7F_20250606_datalog.csv
+2025-06-06 18:41:00,270 - INFO - UPS_7F: CSV saved successfully ¡÷ C:\Users\itdev\OneDrive - ViewSonic Corporation\VSCode\get_ups_datalog\get_ups_datalog\temp_csv\UPS_7F_20250606_datalog.csv
+2025-06-06 18:41:00,596 - INFO - Dropbox token refreshed successfully.
+2025-06-06 18:41:00,597 - INFO - Request to files/upload
+2025-06-06 18:41:02,049 - INFO - File uploaded to Dropbox: /ups_datalog/UPS_7F_20250606_datalog.csv
+2025-06-06 18:41:02,049 - INFO - UPS_7F: Uploaded to Dropbox ¡÷ /ups_datalog/UPS_7F_20250606_datalog.csv
+2025-06-06 18:41:02,050 - INFO - Processing started for UPS_3F
+2025-06-06 18:41:02,212 - INFO - CSV saved to C:\Users\itdev\OneDrive - ViewSonic Corporation\VSCode\get_ups_datalog\get_ups_datalog\temp_csv\UPS_3F_20250606_datalog.csv
+2025-06-06 18:41:02,215 - INFO - UPS_3F: CSV saved successfully ¡÷ C:\Users\itdev\OneDrive - ViewSonic Corporation\VSCode\get_ups_datalog\get_ups_datalog\temp_csv\UPS_3F_20250606_datalog.csv
+2025-06-06 18:41:02,601 - INFO - Dropbox token refreshed successfully.
+2025-06-06 18:41:02,602 - INFO - Request to files/upload
+2025-06-06 18:41:04,146 - INFO - File uploaded to Dropbox: /ups_datalog/UPS_3F_20250606_datalog.csv
+2025-06-06 18:41:04,147 - INFO - UPS_3F: Uploaded to Dropbox ¡÷ /ups_datalog/UPS_3F_20250606_datalog.csv
+2025-06-06 18:41:04,147 - INFO - Processing started for UPS_10F
+2025-06-06 18:41:04,680 - WARNING - Row skipped due to time parsing error: time data 'Date/Time' does not match format '%Y/%m/%d %H:%M:%S'
+2025-06-06 18:41:04,681 - INFO - Found 1 valid records from 10F UPS
+2025-06-06 18:41:04,684 - INFO - CSV saved to C:\Users\itdev\OneDrive - ViewSonic Corporation\VSCode\get_ups_datalog\get_ups_datalog\temp_csv\UPS_10F_20250606_datalog.csv
+2025-06-06 18:41:04,686 - INFO - UPS_10F: CSV saved successfully ¡÷ C:\Users\itdev\OneDrive - ViewSonic Corporation\VSCode\get_ups_datalog\get_ups_datalog\temp_csv\UPS_10F_20250606_datalog.csv
+2025-06-06 18:41:05,074 - INFO - Dropbox token refreshed successfully.
+2025-06-06 18:41:05,075 - INFO - Request to files/upload
+2025-06-06 18:41:06,419 - INFO - File uploaded to Dropbox: /ups_datalog/UPS_10F_20250606_datalog.csv
+2025-06-06 18:41:06,420 - INFO - UPS_10F: Uploaded to Dropbox ¡÷ /ups_datalog/UPS_10F_20250606_datalog.csv
+2025-06-06 18:41:06,420 - INFO - All UPS data processing completed.
