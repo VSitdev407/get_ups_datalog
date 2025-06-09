@@ -44,7 +44,7 @@ def get_10f_data(url, username, password, target_hour, target_mins, tolerance_mi
                 temp_c_part = cols[8].split(" ")[0].strip() if " " in cols[8] else cols[8]
                 temp_c_clean = ''.join(c for c in temp_c_part if c.isdigit() or c == '.')
                 row_data = {
-                    "DateTime": row_dt.strftime("%Y/%m/%d %H:%M:%S"),
+                    "DateTime": row_dt.strftime("%d/%m/%Y %H:%M:%S"),
                     "Vin": cols[1],
                     "Vout": cols[2],
                     "Freq": cols[3],
