@@ -1,0 +1,13 @@
+2025-06-09 10:13:40,783 - INFO - UPS Data Scheduler started (manual run)
+2025-06-09 10:13:40,783 - INFO - Processing started for UPS_9F
+2025-06-09 10:13:41,408 - WARNING - UPS_9F: No matching data found in the specified time range.
+2025-06-09 10:13:41,408 - INFO - Processing started for UPS_8F
+2025-06-09 10:13:41,685 - WARNING - UPS_8F: No matching data found in the specified time range.
+2025-06-09 10:13:41,685 - INFO - Processing started for UPS_7F
+2025-06-09 10:13:41,968 - WARNING - UPS_7F: No matching data found in the specified time range.
+2025-06-09 10:13:41,968 - INFO - Processing started for UPS_3F
+2025-06-09 10:13:42,342 - WARNING - UPS_3F: No matching data found in the specified time range.
+2025-06-09 10:13:42,342 - INFO - Processing started for UPS_10F
+2025-06-09 10:13:45,313 - INFO - No matching records found for 10F UPS in time range.
+2025-06-09 10:13:45,314 - WARNING - UPS_10F: No matching data found in the specified time range.
+2025-06-09 10:13:45,314 - INFO - All UPS data processing completed.
